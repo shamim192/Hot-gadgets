@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins',serif;
+}
+.container{
+    margin-bottom: 100px;
+       
+}
+.nav-link{
+     font-size: 20px;
+          
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,black 0%,black 100% );
+    color: #fff;
+    border:none;
+    border-radius:8px;
+    padding: 9px 25px;
+    cursor:pointer;
+
+}
+.heading {
+    padding-bottom: 40px;
+
+
+     
+}
+.card{
+    border:none;
+    border-radius:10px;
+    box-shadow:5px 5px 10px lightgray;
+    text-align: center;
+}
+
+.category_design{
+    width: 150px;
+    height:150px;
+    border:none;
+    border-radius: 15% 2%;
+    box-shadow:5px 5px 20px lightgray;
+}
