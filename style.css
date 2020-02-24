@@ -23,9 +23,12 @@ body{
 }
 .heading {
     padding-bottom: 40px;
-
-
      
+}
+.see-hov{
+    color: orange;
+    text-decoration: none;
+    cursor: pointer;
 }
 .card{
     border:none;
@@ -40,4 +43,8 @@ body{
     border:none;
     border-radius: 15% 2%;
     box-shadow:5px 5px 20px lightgray;
+}
+footer p{
+    text-align: center;
+    font-size: 12px; 
 }
